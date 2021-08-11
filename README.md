@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QwertyThePhish
 - 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning python/c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python/javascript/ruby
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me
 
 <!---
