@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QwertyThePhish
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning python/c#/javascript/typescript
-- 💞️ I’m looking to collaborate on python/web development/security projecta 
+- 🌱 I’m currently learning python/c#/javascript
+- 💞️ I’m looking to collaborate on python/web development/security projects 
 - 📫 How to reach me
 
 <!---
